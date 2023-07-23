@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <itext.version>RELEASE</itext.version>
+        <itext.version>7.1.18</itext.version>
     </properties>
 
     <dependencies>
